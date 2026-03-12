@@ -38,4 +38,7 @@ Solution
 
 Ikea released a matter based temperature sensor which sells for about 1/2 the price of the sonoff.
 
+I had a few other flows in Nodered but mostly patching devices in that were not directly supported. 
+I reinstalled Homebridge which covered most of that and was easier to deal with.
+
 Moved on
